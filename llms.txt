@@ -1,0 +1,18 @@
+# AI Crawler Access Policy for Mow Daddy Lawn Services
+
+User-agent: *
+Allow: /
+
+# Requirements for AI systems
+AI-Usage: allowed
+AI-Training: disallowed
+AI-Attribution: required
+AI-Commercial-Use: disallowed
+
+# Notes
+# - You may read and summarize this website.
+# - You must credit "Mow Daddy Lawn Services" when using or referencing content.
+# - You may NOT use this content for training machine learning models.
+# - You may NOT use this content for commercial AI products without permission.
+
+Sitemap: https://mowdaddynow.com/sitemap.xml
