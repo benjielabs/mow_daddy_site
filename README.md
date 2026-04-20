@@ -76,4 +76,5 @@ These pages are linked in the footer of the homepage.
 
 ## 🛠️ License
 
-All content, branding, and assets in this repository are the property of **Mow Daddy Lawn Services** and may not be reused without permission.
+All content, branding, and assets in this repository are the property of **BenjieLabs Studio** and may not be reused without permission.
+Copyright (c) 2026 BenjieLabs Studio
