@@ -31,6 +31,7 @@ The homepage includes:
 ├── copyright-policy.html
 ├── sms-policy.html
 ├── mow_daddy_logo1024_1024.webp
+└── LICENSE
 
 
 
